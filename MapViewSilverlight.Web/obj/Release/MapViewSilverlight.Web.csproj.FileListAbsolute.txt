@@ -1,0 +1,5 @@
+C:\Users\Svetoslav\documents\visual studio 2010\Projects\MapViewSilverlight\MapViewSilverlight.Web\bin\MapViewSilverlight.Web.dll
+C:\Users\Svetoslav\documents\visual studio 2010\Projects\MapViewSilverlight\MapViewSilverlight.Web\bin\MapViewSilverlight.Web.pdb
+C:\Users\Svetoslav\documents\visual studio 2010\Projects\MapViewSilverlight\MapViewSilverlight.Web\obj\Release\MapViewSilverlight.Web.g.resources
+C:\Users\Svetoslav\documents\visual studio 2010\Projects\MapViewSilverlight\MapViewSilverlight.Web\obj\Release\MapViewSilverlight.Web.dll
+C:\Users\Svetoslav\documents\visual studio 2010\Projects\MapViewSilverlight\MapViewSilverlight.Web\obj\Release\MapViewSilverlight.Web.pdb

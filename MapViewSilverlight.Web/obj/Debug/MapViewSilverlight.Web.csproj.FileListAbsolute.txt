@@ -1,0 +1,13 @@
+c:\users\svetoslav\documents\visual studio 2010\Projects\MapViewSilverlight\MapViewSilverlight.Web\bin\MapViewSilverlight.Web.dll
+c:\users\svetoslav\documents\visual studio 2010\Projects\MapViewSilverlight\MapViewSilverlight.Web\bin\MapViewSilverlight.Web.pdb
+c:\users\svetoslav\documents\visual studio 2010\Projects\MapViewSilverlight\MapViewSilverlight.Web\obj\Debug\MapViewSilverlight.Web.dll
+c:\users\svetoslav\documents\visual studio 2010\Projects\MapViewSilverlight\MapViewSilverlight.Web\obj\Debug\MapViewSilverlight.Web.pdb
+C:\Users\Svetoslav\documents\visual studio 2010\Projects\MapViewSilverlight\MapViewSilverlight.Web\bin\ClientBin\application.config
+C:\Users\Svetoslav\documents\visual studio 2010\Projects\MapViewSilverlight\MapViewSilverlight.Web\bin\ClientBin\config.xml
+C:\Users\svetlio\Documents\Visual Studio 2012\Projects\MapViewSilverlight\MapViewSilverlight.Web\bin\ClientBin\config.xml
+C:\Users\svetlio\Documents\Visual Studio 2012\Projects\MapViewSilverlight\MapViewSilverlight.Web\bin\ClientBin\application.config
+C:\Users\svetlio\Documents\Visual Studio 2012\Projects\MapViewSilverlight\MapViewSilverlight.Web\bin\MapViewSilverlight.Web.dll
+C:\Users\svetlio\Documents\Visual Studio 2012\Projects\MapViewSilverlight\MapViewSilverlight.Web\bin\MapViewSilverlight.Web.pdb
+C:\Users\svetlio\Documents\Visual Studio 2012\Projects\MapViewSilverlight\MapViewSilverlight.Web\obj\Debug\MapViewSilverlight.Web.csprojResolveAssemblyReference.cache
+C:\Users\svetlio\Documents\Visual Studio 2012\Projects\MapViewSilverlight\MapViewSilverlight.Web\obj\Debug\MapViewSilverlight.Web.dll
+C:\Users\svetlio\Documents\Visual Studio 2012\Projects\MapViewSilverlight\MapViewSilverlight.Web\obj\Debug\MapViewSilverlight.Web.pdb
